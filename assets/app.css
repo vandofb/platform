@@ -32,8 +32,8 @@ p.tight {margin-bottom:0;}
 #nav {position:absolute;top:6px;left:90px;z-index:1000;font-family:"Roboto Condensed",Helvetica,Arial,sans-serif;font-size:18px;font-weight:bold;color:#000;z-index:500;}
 #nav a {color:#000;margin-right:32px;}
 #nav a:hover {color:#df0854;}
-#topspc {height:24px;width:100%;background:#222 url(/docs/assets/images/bg_top.jpg) center top fixed;}
-#bottomspc {height:120px;width:100%;background:#222 url(/docs/assets/images/bg_top.jpg) center bottom fixed;}
+#topspc {height:24px;width:100%;background:#222 url(http://2ea7029ee5fd6986c0a6-6d885a724441c07ff9b675222419a9d2.r58.cf2.rackcdn.com/ui/01/images/bg_mthood.jpg) center top fixed;}
+#bottomspc {height:120px;width:100%;background:#222 url(http://2ea7029ee5fd6986c0a6-6d885a724441c07ff9b675222419a9d2.r58.cf2.rackcdn.com/ui/01/images/bg_mthood.jpg) center bottom fixed;}
 
 /* FORMS */
 button,select,input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="email"],input[type="number"],input[type="search"],input[type="tel"],input[type="time"],input[type="url"],textarea,a.button {font:italic 13px/20px "Noto Serif",helveticaneue,"helvetica neue",helvetica,"segoe ui","segoe wp",arial,sans-serif;border:1px solid #dddddf;width:100%;padding:8px;height:38px !important;background-color:#f3f3f3;border-radius:0 !important;box-shadow:none !important;}
